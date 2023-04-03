@@ -1,4 +1,4 @@
-### Hello there! 👋 My name is Kaveh Karpour Safaei,
+### Hello there! 👋 My name is Kaveh,
  
 I am a dedicated software engineer with almost four years of professional experience. I am passionate about contributing to open-source projects that help uplift people, and building a thriving community of developers.
 

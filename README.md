@@ -6,6 +6,9 @@ I am a dedicated software engineer with almost four years of professional experi
 
 💻 My areas of expertise include Python, JavaScript, and Web development with WordPress, PHP, HTML5, CSS3, jQuery. Additionally, I have experience with C and C++ and also working with various Cloud and CDN providers to enhance client-server integration.
 
+🌐 As a Full Stack Developer, I design and develop websites, utilizing my skills in both front-end and back-end technologies to create fully functional and user-friendly online platforms. I'am familiar with Wordpress, PHP, HTML5, CSS3, jQuery and also working with databases like mysql, mongodb, sqlserver and more with focus on security with Cloud and CDN integration.
+https://kaveh.cf/webdev/
+
 🎮 Game development is an essential passion of mine, and I take it very seriously. As a programmer, I have worked on various personal and corporate projects, which I would recommend exploring in further detail through the link below. While game development may be a hobby, it is much more than just a leisurely activity for me.
 https://kaveh.cf/game/
 

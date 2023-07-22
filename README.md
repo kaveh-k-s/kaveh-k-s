@@ -16,7 +16,7 @@ https://kaveh.cf/game/
 
 🔭 Currently, I am employed as a software engineer, and I am always eager to learn new technologies, especially in the realm of AI and Machine Learning.
 
-#### 📫 If you would like to get in touch, feel free to send me a direct message through my Email or LinkedIn.
+#### 📫 If you would like to get in touch, feel free to send me a direct message through my Email
 
 <!--
 **kavehks/kavehks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@ I am a dedicated software engineer with almost four years of professional experi
 
 🌐 As a Full Stack Developer, I design and develop websites, utilizing my skills in both front-end and back-end technologies to create fully functional and user-friendly online platforms. I'am familiar with Wordpress, PHP, HTML5, CSS3, jQuery, Javascript, Django and also working with databases like (MySQL, PostgreSQL, Microsoft SQL Server, MongoDB) with focus on security with Cloud and CDN integration. To view my website designs, you can visit the link below.
 https://kaveh.cf/webdev/ 
-#### If you want a custom website for your business or even to improve your website security, feel free to DM me on my Email or LinkedIn
+#### If you want a custom website for your business or even to improve your website security, feel free to DM me on my Email
 
 
 🎮 Game development is an essential passion of mine, and I take it very seriously. As a programmer, I have worked on various personal and corporate projects, which I would recommend exploring in further detail through the link below. While game development may be a hobby, it is much more than just a leisurely activity for me.

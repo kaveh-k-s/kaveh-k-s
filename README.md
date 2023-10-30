@@ -6,8 +6,9 @@ I am a dedicated software engineer with almost four years of professional experi
 
 💻 My areas of expertise include Python, JavaScript, and Web development with (WordPress, React JS, Node JS, Angular, Django, PHP, HTML5, CSS3, jQuery). Working with defferent database structures like (MySQL, PostgreSQL, Microsoft SQL Server, MongoDB). Additionally, I have experience with C and C++ and also working with various Cloud and CDN providers to enhance client-server integration.
 
-🌐 As a Full Stack Developer, I design and develop websites, utilizing my skills in both front-end and back-end technologies to create fully functional and user-friendly online platforms. I'am familiar with Wordpress, PHP, HTML5, CSS3, jQuery, Javascript, Django and also working with databases like (MySQL, PostgreSQL, Microsoft SQL Server, MongoDB) with focus on security with Cloud and CDN integration. To view my website designs, you can visit the link below.
+🌐 As a Full Stack Developer, I design and develop websites, utilizing my skills in both front-end and back-end technologies to create fully functional and user-friendly online platforms. I worked with Wordpress, React JS, Node JS, Angular, Django, PHP, HTML5, CSS3, jQuery, Javascript, Django and also working with databases like (MySQL, PostgreSQL, Microsoft SQL Server, MongoDB) **with focus on performance, security, Cloud and CDN integration in large scale operation.** To view my website designs, you can visit the link below.
 https://kaveh.cf/webdev/ 
+
 #### If you want a custom website for your business or even to improve your website security, feel free to DM me on my Email
 
 
